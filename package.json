@@ -1,0 +1,10 @@
+{
+  "name": "nooni-labubu-chat",
+  "version": "1.0.0",
+  "description": "شات نوني ولابوبو",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "dependencies": {}
+}
